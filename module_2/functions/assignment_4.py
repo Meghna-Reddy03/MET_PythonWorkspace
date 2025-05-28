@@ -11,6 +11,5 @@ def generate_table(number):
     print(8*number)
     print(9*number)
     print(10*number)
-
-
+    
 generate_table(user)
