@@ -1,4 +1,4 @@
-number = (input('enter a number:'))
+number = (input('Enter a number:'))
 a = number.split(' ')
 print(a)
 search_number = (input('enter the number to search:'))
