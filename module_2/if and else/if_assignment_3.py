@@ -1,4 +1,4 @@
-num = int(input('enter the number:'))
+num = int(input('Enter the number:'))
 secret_number = 55
 if num == secret_number:
     print('You have guessed it correctly!')

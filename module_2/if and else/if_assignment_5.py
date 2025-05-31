@@ -1,4 +1,4 @@
-user = int(input('enter the numbers between 1 and 7:'))
+user = int(input('Enter the numbers between 1 and 7:'))
 if user == 1:
     print('sunday')
 elif user == 2:

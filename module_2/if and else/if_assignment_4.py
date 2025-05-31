@@ -1,4 +1,4 @@
-total_amount = int(input('enter the total amount:'))
+total_amount = int(input('Enter the total amount:'))
 
 if total_amount > 100:
     a = (10/total_amount)*100

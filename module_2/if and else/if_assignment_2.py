@@ -1,5 +1,5 @@
 details = {
-    "username" : "Meghna24",
+    "username" : "meghna24",
     "password" : "1a34"
 }
 user = input('enter your username:')
