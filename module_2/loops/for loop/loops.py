@@ -11,4 +11,4 @@ for key in person:
     if key == 'hobbies':
         my_hobbies = person['hobbies']
         for j in my_hobbies:
-            print(j)
+            print(j)#
