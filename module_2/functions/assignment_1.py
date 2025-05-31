@@ -1,7 +1,7 @@
 num1 = int(input('enter 1st number:'))
 num2 = int(input('enter 2nd number:'))
 operation = input('enter the operation:')
-
+#
 def add(a,b):
     print(a+b)
 def sub(a,b):
