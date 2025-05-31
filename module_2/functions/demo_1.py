@@ -1,5 +1,5 @@
 data =[{
-    'name':"meghna",
+    'name':"Meghna",
     'age':21
 },
 {

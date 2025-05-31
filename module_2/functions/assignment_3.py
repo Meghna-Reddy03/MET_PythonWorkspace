@@ -1,4 +1,4 @@
-student = input('enter the name:')
+student = input('Enter the name:')
 grade = input('enter the grade:')
 
 def display_student_info(name,section):

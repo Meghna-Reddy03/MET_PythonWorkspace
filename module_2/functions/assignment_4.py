@@ -1,4 +1,4 @@
-user = int(input('enter a number:'))
+user = int(input('Enter a number:'))
 
 def generate_table(number):
     print(1*number)

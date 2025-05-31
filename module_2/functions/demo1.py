@@ -1,6 +1,6 @@
-def add_vendor(id,name,**object):
+def add_vendor(Id,name,**object):
     info ={
-    'id ': id,
+    'id ': Id,
     'name':name,
 }
     for key, value in info.items():
