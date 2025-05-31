@@ -3,4 +3,5 @@ Print out in following format - XXXX XXXX XXXX 2345
 Basically, mask all the digits except last 4 digits
  '''
 user = input('enter the digits:')
-last_digits = user[16:]
+last_digits = user[15:]
+print('XXXX XXXX XXXX ' + last_digits)
