@@ -1,4 +1,4 @@
-temp = float(input('enter the temperature:'))
+temp = float(input('Enter the temperature:'))
 degree = input('enter if its C or F:')
 if degree.upper() == 'C':
     a = str((9/5)*temp+32)
