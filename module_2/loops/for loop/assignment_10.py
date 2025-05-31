@@ -8,4 +8,4 @@ for i in info.values():
     if len(i) > 5:
         print(i.upper())
     else:
-        print(i.lower())
+        print(i.lower())#
